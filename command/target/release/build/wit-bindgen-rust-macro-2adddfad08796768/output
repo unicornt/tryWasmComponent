@@ -1,2 +1,0 @@
-cargo:rerun-if-changed=build.rs
-cargo:rustc-env=DEBUG_OUTPUT_DIR=/home/unicornt/WASM/tryComp/command/target/release/build/wit-bindgen-rust-macro-2adddfad08796768/out
